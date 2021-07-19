@@ -1,6 +1,6 @@
 # VotingPlugin
 Plugin on SpigotMC
-https://www.spigotmc.org/resources/votingplugin.15358/
+https://www.spigotmc.org/resources/votingplugin.15359/
 
 ![img](http://badge.henrya.org/spigot/downloads?id=15358&color=green)
 
